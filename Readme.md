@@ -1,6 +1,6 @@
-# 🚀 Project [Project Name]
+# 🚀 Project Logger Image  - By Astra
 
-Welcome to **[Logger Image]**! 🚀
+Welcome to **Logger Image - By Astra**! 🚀
 
 This repository contains a script developed exclusively for educational purposes. I am not responsible for any misuse of this code. The user is solely responsible for its implementation and usage.
 
