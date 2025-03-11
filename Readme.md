@@ -59,7 +59,7 @@ pip install -r api/requirements.txt
 > If you want to support my work, consider donating via Ko-fi!  
 > [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/astra_x)
 
----
+--
 
 ### Made without 🖤 by Astra
 
