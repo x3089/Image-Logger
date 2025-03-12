@@ -1,6 +1,6 @@
 
 # Discord Image Logger
-# By DeKrypt | https://github.com/x3089
+# By Astra | https://github.com/x3089
 print ("""
         █████  ███████ ████████ ██████   █████  
        ██   ██ ██         ██    ██   ██ ██   ██ 
